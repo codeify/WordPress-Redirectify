@@ -15,16 +15,10 @@ Features:
 2. Activate the plugin through the \"Plugins\" menu in WordPress.
 
 
-== Screenshots ==
-1. Depicts settings panel for redirectify.
-
 == Changelog ==
 v1.0
 * Initial release.
 
-== Upgrade Notice ==
-v1.0
-* Initial release.
 
 == Frequently Asked Questions ==
 
